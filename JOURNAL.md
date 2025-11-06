@@ -8,7 +8,7 @@
 
 ## 11/6/2025 - Research  
 
-I am doing research on CoreXY printers. This includes what motors they have for what axis, how they self level, what sensors I am going to need, and how the build plate should be mounted on the z axis. Once finished with more research I am going to begin to make a parts list and make prototype designs of the printer.
+I am doing research on CoreXY printers. This includes what motors they have for what axis, how they self level, what sensors I am going to need, and how the build plate should be mounted on the z axis. Once finished with more research I am going to begin to make a parts list and make prototype designs of the printer. Some printers i'm thinking of taking influence from are the Voron printers and the Prusa Core One.
 
 ![2](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODkwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--55024d59571f481ce82577966c64dbe66edf1a03/2.png)
   
