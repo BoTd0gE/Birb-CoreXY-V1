@@ -13,3 +13,15 @@ I am doing research on CoreXY printers. This includes what motors they have for 
 ![2](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODkwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--55024d59571f481ce82577966c64dbe66edf1a03/2.png)
   
 
+## 11/8/2025 - Rough Sketch  
+
+After research, I finally decided on how I want to design and build my printer. In addition to the parts that I might need, I made a list with a majority of the things I will need and a very, very rough prototype sketch to see if the design I had in mind still makes sense when drawn out.
+
+![1762615052595-6ee3babc-6d93-4a60-a9b9-097953577d41_1](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTQzNSwicHVyIjoiYmxvYl9pZCJ9fQ==--3143abb643cb41a9bd76fe095eb16dc3e5efb2d6/1762615052595-6ee3babc-6d93-4a60-a9b9-097953577d41_1.jpg)
+![1762615052595-6ee3babc-6d93-4a60-a9b9-097953577d41_2](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTQzNiwicHVyIjoiYmxvYl9pZCJ9fQ==--6b4de8d8d3b8ad8d66dae8c7f1f978a49441ff94/1762615052595-6ee3babc-6d93-4a60-a9b9-097953577d41_2.jpg)
+
+
+
+
+  
+
